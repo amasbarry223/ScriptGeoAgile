@@ -1,0 +1,8 @@
+playwright
+python-dotenv
+geopy
+starlink-grpc-core
+yagmail
+cryptography
+rich
+inquirer
